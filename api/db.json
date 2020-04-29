@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "sdfds",
+      "description": "sdfsdf",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "i created this stream",
+      "description": "this was made by me",
+      "userId": "104263406188888465062",
+      "id": 3
+    },
+    {
+      "title": "i created this stream",
+      "description": "this was made by me",
+      "userId": "104263406188888465062",
+      "id": 4
+    },
+    {
+      "title": "hi",
+      "description": "bye!",
+      "userId": "104263406188888465062",
+      "id": 6
+    },
+    {
+      "title": "Me streaming component reuse",
+      "description": "refactoring test",
+      "id": 7
+    }
+  ]
+}
