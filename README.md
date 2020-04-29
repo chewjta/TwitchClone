@@ -1,4 +1,7 @@
 # twitchclone
 
 A simple twitch clone where you can create, edit, view and delete streams. 
-Authentication is based on google auth. 
+
+Create your own stream via pairing with OBS Studio!
+
+Login and gain assess to your streams using Google Auth!
